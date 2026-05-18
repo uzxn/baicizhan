@@ -1,6 +1,6 @@
-# baicizhan-CET6
+# baicizhan
 
-> 本项目基于 [lyc8503/baicizhan-word-meaning-API](https://github.com/lyc8503/baicizhan-word-meaning-API) 整理，将百词斩六级词汇提取为独立 JSON 文件，每个单词一个文件，可通过 HTTP 直接访问。
+> 本项目基于 [lyc8503/baicizhan-word-meaning-API](https://github.com/lyc8503/baicizhan-word-meaning-API) 整理，将百词斩中学及大学词汇提取为独立 JSON 文件，每个单词一个文件，可通过 HTTP 直接访问。
 
 ## 目录结构
 
@@ -32,13 +32,13 @@ list.json
 **通过 GitHub Raw 访问：**
 
 ```
-https://raw.githubusercontent.com/uzxn/baicizhan-CET6/main/words/abandon.json
+https://raw.githubusercontent.com/uzxn/baicizhan/main/words/abandon.json
 ```
 
 **通过 jsDelivr CDN 访问（推荐）：**
 
 ```
-https://cdn.jsdelivr.net/gh/uzxn/baicizhan-CET6/words/abandon.json
+https://cdn.jsdelivr.net/gh/uzxn/baicizhan/words/abandon.json
 ```
 
 **获取单词列表：**`list.json` 包含所有单词的索引。
